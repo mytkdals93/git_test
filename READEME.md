@@ -1,0 +1,1 @@
+This is Sangmin's first git project!
